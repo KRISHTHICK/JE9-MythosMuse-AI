@@ -1,0 +1,31 @@
+streamlit
+Pillow
+ollama
+
+# 🎭 MythosMuse AI – AI-Powered Myth-Inspired Fashion Designer
+
+A creative Streamlit + Ollama-powered AI agent that fuses mythology with modern fashion design.
+
+# ## 🚀 How to Run
+
+# 1. Install requirements:
+# pip install -r requirements.txt
+
+# less
+# Copy
+# Edit
+
+# 2. Make sure [Ollama](https://ollama.com/) is installed and running locally.
+
+# 3. Run the app:
+# streamlit run app.py
+
+# markdown
+# Copy
+# Edit
+
+# ## 🌟 Features
+
+# - Myth + Fashion fusion suggestions
+# - Upload your image and get AI insights
+# - Ask an AI Muse (LLM-powered) for creative ideas
